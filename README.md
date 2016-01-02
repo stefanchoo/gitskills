@@ -5,3 +5,5 @@
 - git commit -m "first commit"
 - git remote add origin git@github.com:stefanchoo/gitskills.git
 - git push -u origin master
+
+The Stratedy of managing branch.
