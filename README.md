@@ -8,3 +8,6 @@
 
 Creating new branch is quick and simple.
 
+## 解决冲突 ##
+- git merge --no-ff -m "merge with no-ff" sub1
+
