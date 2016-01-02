@@ -1,5 +1,7 @@
 ## Learn Git Skills##
 
+/usr/bin/env python
+
 coding:utf-8
 
 - echo # gitskills >> README.md
