@@ -1,4 +1,7 @@
 ## Learn Git Skills##
+
+/usr/bin/env python
+
 - echo # gitskills >> README.md
 - git init
 - git add README.md
